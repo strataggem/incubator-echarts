@@ -1,6 +1,6 @@
 {
-  "name": "echarts",
-  "version": "4.1.0",
+  "name": "@strataggem/echarts",
+  "version": "4.1.0-a",
   "description": "A powerful charting and visualization library for browser",
   "keywords": [
     "visualization",
